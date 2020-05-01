@@ -16,8 +16,9 @@ https://redis.io/
 - soupsieve (2.0)
 - urllib 1.25.9)
 
+### Tip
 In the '*secrects.py*' file you have to enter your gmail password:
-<br/>*password = 'yourPassword'*<br/>
+<br/>*yourpassword = 'yourPassword'*<br/>
 (I would recommend to create a new gmail account for it)
 
 
