@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import redis
-from secrets import password
+from password import yourpassword
 import datetime
 
 class Scraper:
